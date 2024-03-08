@@ -1,0 +1,21 @@
+:root {
+  // Fonts
+  --main-font: 'Montserrat', sans-serif;
+
+  // Text colors
+  --main-text-cl: #a7d6da;
+  --secondary-text-cl: #374344;
+
+  // Background colors
+  --main-bg-cl: #374344;
+  --secondary-bg-cl: #fff;
+  --accent-bg-cl: #37548a;
+
+  // Transition
+  --transition-cubic: cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-time: 250ms;
+
+  // Message
+  --success-cl: #74b566;
+  --error-cl: #c95c54;
+}
