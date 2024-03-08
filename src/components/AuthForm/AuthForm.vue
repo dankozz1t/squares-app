@@ -50,7 +50,7 @@ const onLoginClick = () => {
 </template>
 
 <style scoped lang="scss">
-.card {
+.auth__card {
   max-width: 800px;
   width: 100%;
 }
